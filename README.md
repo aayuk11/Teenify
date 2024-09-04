@@ -4,7 +4,7 @@
 <h4>It also stores the shortened urls and their respective number of clicks.</h4>
 <br>
 <h2>Demo :</h2>
-upload demo video for the application
+
 https://github.com/user-attachments/assets/1835515d-618f-47df-b2de-12cff822aafb
 <br>
 <h2>Technologies Used</h2>
